@@ -1,0 +1,11 @@
+Ma NXB         |Ten NXB                       
+N1             |NXB KHCN                                ,
+N2             |NXB Cuc thong tin Khoa hoc              ,
+N3             |NXB Tong cuc Lam Nghiep                 ,
+N4             |NXB Khoa hoc va Vu tru                  ,
+N5             |NXB Tong cuc Thong Ke                   ,
+N6             |NXB Bo Thong tin va Truyen Thong        ,
+N7             |NXB Y                                   ,
+N8             |NXB Moi Truong                          ,
+N9             |NXB Luat Viet nam                       ,
+N10            |NXB Da Nang                             ,
