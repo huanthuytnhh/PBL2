@@ -18,5 +18,4 @@ ART13          |Vai tro cua nha nuoc trong phat trien nong nghiep nong thon     
 ART15          |Xay dung he thong giam sat moi truong bang cong nghe IoT         |AU12                     |TCKTDB                                       |2022      ,
 ART22          |bai bao da chinh sua                                             |AU30                     |DTYH                                         |2023      ,
 ART21          |Bai nghien cuu cua thanh                                         |AU22                     |DTYH                                         |2023      ,
-ART40          |Test                                                             |AU30                     |DTYH                                         |2023      ,
 ART41          |Test2                                                            |AU40                     |TCPL                                         |2023      ,

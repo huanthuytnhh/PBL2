@@ -442,8 +442,8 @@ int menu::Menu_Xoa(){
                                 |_____/ \___|_|\___|\__\___| |_|  |_|\___|_| |_|\__,_|
                                                       
       )";
-    const string menuOptions[] = { "1. Bai bao", "2. Tac gia","3. Tap chi","4. Nha xuat ban","0. Thoat" };
-    const int totalOptions = 5;
+    const string menuOptions[] = { "1. Bai bao theo ma bai bao","2. Bai bao theo vi tri" ,"3. Tac gia","4. Tap chi","5. Nha xuat ban","0. Thoat" };
+    const int totalOptions = 6;
     return menuSelectionLoop(menuOptions,totalOptions,s);
 }
 

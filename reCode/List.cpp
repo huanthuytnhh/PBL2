@@ -119,7 +119,7 @@ void List::List_displayTapChi()
 }
 void List::List_displayTacGia()
 {
-    cout << "check " << tg[0].TacGia_id << endl;
+   // cout << "check " << tg[0].TacGia_id << endl;
     cout << endl
          << left << setw(15) << "Ma tac gia"
          << left << setw(30) << "Ho"
